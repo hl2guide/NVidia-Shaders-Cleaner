@@ -32,6 +32,10 @@ at game startup or otherwise.
 The script MUST be `run as Administrator` in `PowerShell 7.5.2` or later to work
 as intended.
 
+## Preview
+
+![Preview](https://raw.githubusercontent.com/hl2guide/NVidia-Shaders-Cleaner/refs/heads/main/images/preview.png)
+
 ## Usage
 
 Read the above text and then CD into the correct directory and then to
