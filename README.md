@@ -16,8 +16,9 @@ for AMD or Intel GPUs.
 NVIDIA Shaders can become corrupted or invalid and need to be rebuilt
 by a game or app.
 
-This script removes ALL shader files (*.nvph) in the NVIDIA DXCache folder:
-$env:LOCALAPPDATA\NVIDIA\DXCache
+__This script removes ALL shader files (*.nvph) in the NVIDIA DXCache folder:__
+
+_$env:LOCALAPPDATA\NVIDIA\DXCache_
 
 Before running this script check that all PC games and apps that use your
 NVidia GPU (hardware acceleration) are closed off and not open and running.
