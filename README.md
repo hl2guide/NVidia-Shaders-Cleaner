@@ -1,6 +1,6 @@
 # NVidia-Shaders-Cleaner 🧹
 
-A PowerShell script that removes ALL shader files (*.nvph) in the NVIDIA DXCache folder in Windows.
+A PowerShell 7 script that removes ALL shader files (*.nvph) in the NVIDIA DXCache folder in Windows.
 
 Title: DXCache NVidia Shaders Cleaner Script for NVidia GPUs
 
