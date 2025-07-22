@@ -8,6 +8,10 @@ Version: 1.0
 
 Filename: clear_nvidia_shaders.ps1
 
+## Preview
+
+![Preview](https://raw.githubusercontent.com/hl2guide/NVidia-Shaders-Cleaner/refs/heads/main/images/preview.png)
+
 ## Important Notes
 
 This script applies to a user of NVidia GPUs and does nothing at all
@@ -31,10 +35,6 @@ at game startup or otherwise.
 ## Requirements
 The script MUST be `run as Administrator` in `PowerShell 7.5.2` or later to work
 as intended.
-
-## Preview
-
-![Preview](https://raw.githubusercontent.com/hl2guide/NVidia-Shaders-Cleaner/refs/heads/main/images/preview.png)
 
 ## Usage
 
